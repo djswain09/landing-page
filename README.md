@@ -15,7 +15,6 @@
 <a href=""><img src="https://img.shields.io/github/issues-pr-closed/djswain09/landing-page" alt="Pull Requests Badge"/></a>
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/djswain09/landing-page?color=light-green">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/djswain09/landing-page?style=social">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/djswain09/landing-page?style=social">
 <h4>You can make folders of your own in this repo. Projects without folders are not accepted.</h4>
 
 
