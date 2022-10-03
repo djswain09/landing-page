@@ -24,10 +24,10 @@
 
 <br>
 
-# About :zap:
+## About :zap:
 Collection of landing pages.
 
-# How to Contribute :dart:
+## How to Contribute :dart:
 
 - FIrst fork this project.
 
@@ -40,17 +40,17 @@ Collection of landing pages.
 
 - Go to original project on GitHub & Create a Pull Request.
 
-### Conclusion
+## Conclusion
 
 - Happy Contributing! 🎉 
 - May you have a great Hacktoberfest 2022! 🎉
 
-### References
+## References
 
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
 - [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
 
-# :fire: Contributors :fire:
+## :fire: Contributors :fire:
 
 <a href="https://github.com/djswain09/landing-page/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=djswain09/landing-page" />
