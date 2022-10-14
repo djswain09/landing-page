@@ -68,3 +68,4 @@ Made with [contributors-img](https://contrib.rocks).
 <a href="https://github.com/djswain9/landing-page/tree/main/hacktober2022/page_2"><img src="https://github.com/djswain9/landing-page/blob/main/images/page_2.png"></a>
 <a href="https://github.com/djswain9/landing-page/tree/main/hacktober2022/page_3"><img src="https://github.com/djswain9/landing-page/blob/main/images/page_3.png"></a>
 <a href="https://github.com/djswain9/landing-page/tree/main/hacktober2022/page_4"><img src="https://github.com/djswain9/landing-page/blob/main/images/page_4.png"></a>
+<a href="https://github.com/djswain9/landing-page/tree/main/hacktober2022/page_5"><img src="https://github.com/djswain9/landing-page/blob/main/images/page_5.png"></a>
